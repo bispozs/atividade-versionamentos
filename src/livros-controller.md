@@ -1,6 +1,10 @@
-# Servidor da API
+# Controller de Livros
 
-Este arquivo representaria o ponto inicial da aplicação.
+Responsável por controlar as operações relacionadas aos livros.
 
-Ele seria responsável por iniciar o servidor e configurar
-as rotas da API de biblioteca.
+Funções simuladas:
+
+listarLivros()
+criarLivro()
+atualizarLivro()
+removerLivro()
